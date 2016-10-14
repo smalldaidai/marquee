@@ -10,10 +10,9 @@
 
 用法：
 
-html部份（需要引入marquee.css和marquee.js）
-<div id="divId"> 这个是准备左右滑动的内容 </div>
-
 js部分
 new marquee("divId");
 
-即可
+divId为需要滚动效果的div
+
+html部分需要引入marquee.js和marquee.css
