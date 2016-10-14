@@ -1,0 +1,11 @@
+.-marquee-inner{
+	
+	position:relative;
+	white-space:nowrap;
+}
+
+.-marquee-outter{
+
+	overflow:hidden;
+
+}
